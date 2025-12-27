@@ -1,0 +1,8 @@
+{
+  "name": "Design Portfolio & AI Assistant",
+  "description": "A high-end UI/UX portfolio featuring project case studies and an interactive Gemini-powered AI design assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
